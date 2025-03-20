@@ -1,1 +1,1 @@
-# ai_curse
+# ai_egocentric_bias
