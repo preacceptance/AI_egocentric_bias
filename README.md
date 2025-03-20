@@ -1,1 +1,1 @@
-# ai_egocentric_bias
+# AI_egocentric_bias
